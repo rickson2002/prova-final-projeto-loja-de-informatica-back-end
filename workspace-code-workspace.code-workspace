@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "discovery-server",
+			"path": "discovery-server"
+		},
+		{
+			"name": "gateway",
+			"path": "gateway"
+		},
+		{
+			"path": "informaticaloja"
+		},
+		{
+			"name": "vendas",
+			"path": "vendas"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive",
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
